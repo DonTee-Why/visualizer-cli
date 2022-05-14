@@ -5,7 +5,7 @@ Visualizer-CLI is a terminal program written in Python that enables you to visua
 
 ## Features
 
-- Pass data boundaries in form of flags in the terminal
+- Pass data boundaries in as flags in the terminal
 - Represents data in a graph
 - Draw graph directly in the terminal
 
@@ -42,7 +42,7 @@ On windows:
 env\Scripts\activate.bat
 ```
 
-3. Install the dependencies dependencies in the virtual environment.
+3. Install the dependencies in the virtual environment.
 
 ```sh
 cd visualizer-cli
