@@ -1,7 +1,7 @@
 
 # Visualizer-CLI
 
-Visualizer-CLI is a terminal program written in Python that enables you to visualize data. The data is gotten form an api endpoint in key-value pairs (dates for keys, and number of users for values). Data is then presented by a graph drawn in the terminal
+Visualizer-CLI is a terminal program written in Python that enables you to visualize data. The data is gotten from an API endpoint in key-value pairs (i.e dates for keys, and number of users for values). Data is then presented using a graph drawn in the terminal.
 
 ## Features
 
@@ -11,13 +11,13 @@ Visualizer-CLI is a terminal program written in Python that enables you to visua
 
 ## Installation
 
-Visualize-CLI requires [Python](https://www.python.org/downloads/) v3.8+ to run.
+This project requires [Python](https://www.python.org/downloads/) v3.8+ to run.
 
-1. Clone the project code from the repository and then cd into the root directory.
+1. Clone the project from the repository and then cd into the root directory.
 
 ```sh
 
-git clone https://github.com/Abe404/root_painter.git
+git clone https://github.com/DonTee-Why/visualizer-cli.git
 cd visualize-cli
 
 ```
