@@ -75,7 +75,7 @@ def get_coordinates(start_date, end_date, res):
     elif end_date.strftime('%d-%m-%Y') not in res:
         sys.exit("Given end date is not available")
     else:
-        sys.exit("An error occurred. Pls check your input")
+        sys.exit("An error occurred. Please check your input")
 
     coordinates = {
         "X": x_values,
